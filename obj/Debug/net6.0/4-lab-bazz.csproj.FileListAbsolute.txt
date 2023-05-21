@@ -1,0 +1,15 @@
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\bin\Debug\net6.0\4-lab-bazz.exe
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\bin\Debug\net6.0\4-lab-bazz.deps.json
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\bin\Debug\net6.0\4-lab-bazz.runtimeconfig.json
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\bin\Debug\net6.0\4-lab-bazz.dll
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\bin\Debug\net6.0\4-lab-bazz.pdb
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.csproj.AssemblyReference.cache
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.AssemblyInfo.cs
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.dll
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\refint\4-lab-bazz.dll
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.pdb
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\4-lab-bazz.genruntimeconfig.cache
+C:\Users\vlade\source\repos\4-lab-bazz\4-lab-bazz\obj\Debug\net6.0\ref\4-lab-bazz.dll
