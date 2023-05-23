@@ -8,6 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Лабораторную работу выполнил студент 1 курса , группа РПИа-о22, Ершов Владислав Олегович");
         if (args is null)
         {
             throw new ArgumentNullException(nameof(args));
